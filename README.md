@@ -1,6 +1,8 @@
 # Consider
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/hoan554/consider/ci.yml?branch=main)](https://github.com/hoan554/consider/actions)
+[![Code Coverage](https://img.shields.io/codecov/c/github/hoan554/consider)](https://codecov.io/gh/hoan554/consider)
 
 **Consider** is a lightweight decision-making tool designed to help users evaluate options and make informed choices. Whether you're deciding between multiple projects, products, or strategies, Consider simplifies the process by providing a structured framework for comparison.
 
@@ -13,6 +15,7 @@
 - **Visual Insights**: Generate visual summaries to better understand your decisions.
 - **Export Results**: Save or export your evaluations for future reference.
 - **User-Friendly Interface**: Intuitive and easy-to-use design for seamless decision-making.
+- **Responsive Design**: Works seamlessly across devices, from desktops to mobile phones.
 
 ---
 
@@ -37,6 +40,11 @@ To use Consider, follow these steps:
    npm start
    ```
 
+For development, you can run the following command to start the development server:
+   ```bash
+   npm run dev
+   ```
+
 ---
 
 ## Usage
@@ -46,6 +54,8 @@ To use Consider, follow these steps:
 3. **Assign Weights**: Assign weights to each criterion based on importance.
 4. **Evaluate**: Score each option against the criteria.
 5. **Review Results**: View the weighted scores and visual summaries to make your decision.
+
+For more detailed instructions, refer to the [User Guide](USER_GUIDE.md).
 
 ---
 
@@ -74,6 +84,7 @@ For questions or feedback, feel free to reach out:
 
 - **Email**: hoan554@example.com
 - **GitHub**: [hoan554](https://github.com/hoan554)
+- **Twitter**: [@hoan554](https://twitter.com/hoan554)
 
 ---
 
