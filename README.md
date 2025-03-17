@@ -1,6 +1,3 @@
-# consider
-
-```markdown
 # Consider
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
@@ -81,4 +78,3 @@ For questions or feedback, feel free to reach out:
 ---
 
 **Consider** - Making decisions easier, one choice at a time.
-```
